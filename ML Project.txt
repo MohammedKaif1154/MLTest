@@ -1,0 +1,12 @@
+Agenda 
+
+End To End Data Science Project 
+1.Git and GitHub repository setup
+2.Project Setup
+3.Requirement.txt 
+
+*** Two ways of creating environment **
+Syntax:
+conda create -p venv python==3.9
+python -m venv venv 
+
